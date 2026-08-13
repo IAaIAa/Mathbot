@@ -1,0 +1,10 @@
+# საიდუმლოებები — არასდროს ატვირთო GitHub-ზე
+.streamlit/secrets.toml
+*.env
+
+# PDF და დროებითი ფაილები
+data/*.pdf
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
